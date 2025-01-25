@@ -9,16 +9,16 @@ li,a{
     font-size: 30px;
     color: black;
     display: inline-block;
-    padding-left: 45px
+    padding-left: 15px
 }
 header{
-    background-color: azure;
-    padding: 25px;
+    background-color: rgb(248, 244, 244);
+    width: 1325px;
+    height:60px;
+    margin-left: -10px;
+    padding: 10px;
+    margin-top: -30px;
     text-align: center;
-    margin-top: 15px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin-top: -20px;
 }
 .REGISTER{
     font-family:'Times New Roman', Times, serif;
@@ -53,7 +53,7 @@ header{
     height: 30px;
 }
 .img{
-    margin-bottom: -60px;
+    margin-bottom: -50px;
     margin-left: 10px;
 }
 .btn{
