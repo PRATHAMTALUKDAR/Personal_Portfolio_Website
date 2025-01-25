@@ -4,7 +4,7 @@
 }
 .nav{
     background-color: black;
-    width: 1330px;
+    width: 1303px;
     height:50px;
     margin-left: -20px;
     padding: 20px;
@@ -81,12 +81,12 @@ li,a{
     padding-left: 20px;
     margin-top: 20px;
     margin-bottom: -20px;
-    width: 1305px;
+    width: 1315px;
     height:250px;
     margin-left: -20px;
 }
 .map{
-    width : 1310px;
+    width : 1330px;
     height: 310px;
     margin-top: -40px;
 }
