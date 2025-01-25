@@ -25,13 +25,14 @@ body{
     background-size: cover;
 }
 .pratham{
-    width: 250px;
+    width: 220px;
     height: 300px;
     margin-top: 20px;
+    border-radius: 10px;
 }
 .text1{
     margin-top: -300px;
-    margin-left: 280px;
+    margin-left: 250px;
     font-size: 25px;
 }
 .text{
