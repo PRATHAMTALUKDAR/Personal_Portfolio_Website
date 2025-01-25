@@ -26,6 +26,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .cine_img{
     margin-left: -100px;
@@ -37,6 +38,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .roll{
     margin-top: -600px;
@@ -44,6 +46,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .roll2{
     margin-top: 100px;
@@ -51,6 +54,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .meme{
     margin-top: -600px;
@@ -58,6 +62,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .sudden{
     margin-top: -600px;
@@ -65,6 +70,7 @@ li,a{
     width: 300px;
     height: 600px;
     background-color: antiquewhite;
+    border-radius: 10px;
 }
 .foot{
     background-color: rgba(255, 255, 255, 0.838);
